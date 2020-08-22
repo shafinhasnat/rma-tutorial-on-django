@@ -1,0 +1,12 @@
+.headline{
+	color: green;
+}
+.card-style{
+	display: flex;
+	justify-content: center;
+}
+.cross{
+	float: right;
+	color: red;
+	cursor: pointer;	
+}
